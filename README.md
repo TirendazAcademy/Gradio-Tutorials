@@ -10,7 +10,7 @@ def greet(name):
 demo = gr.Interface(fn=greet, inputs="text", outputs="text")
     demo.launch()
 ```
-![](https://github.com/TirendazAcademy/Gradio-Tutorials/blob/main/Images/gradio-text.gif)
+![](https://github.com/TirendazAcademy/Gradio-Tutorials/blob/main/Images/gradio-app.gif)
 
 ## YouTube Videos
 - ![Building & Deploying an NER App with Gradio](https://youtu.be/2iRsk7HM6kg)
