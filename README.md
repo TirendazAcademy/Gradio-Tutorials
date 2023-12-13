@@ -15,3 +15,4 @@ demo = gr.Interface(fn=greet, inputs="text", outputs="text")
 ## YouTube Videos
 - [Building & Deploying an NER App](https://youtu.be/2iRsk7HM6kg)
 - [Music Generator App](https://youtu.be/_5F-toek0G8)
+- [ChatBot with Zeyphyr-3b](https://youtu.be/VLyJ6pDxrB4)
